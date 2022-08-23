@@ -13,3 +13,8 @@ Next.jsとReact
     - 環境構築
     - 〜P31
 - AWS SAA 過去問
+
+8月23日
+- 作って学ぶNext.js/React Webサイト構築
+    - P31 ~
+- AWS SAA 過去問
