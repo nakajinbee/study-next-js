@@ -1,20 +1,10 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Hero from 'components/Hero'
+import Layout from 'components/layout'
 
 export default function Home() {
   return (
-  <>
-    <header>HEADER</header>
-
-    <main>
-      <div>
-        <h1>CUBE</h1>
-        <p>アウトプットするサイト</p>
-      </div>
-    </main>
-
-    <footer>Footer</footer>
-  </>
+  <Layout>
+      <Hero />
+  </Layout>
   )
 }
