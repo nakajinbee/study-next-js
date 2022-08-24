@@ -21,5 +21,5 @@ Next.jsとReact
 
 8月24日
 - 作って学ぶNext.js/React Webサイト構築
-    - P56
+    - P56 ~ P85
 - Software Design 9月号
