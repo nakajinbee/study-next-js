@@ -18,3 +18,8 @@ Next.jsとReact
 - 作って学ぶNext.js/React Webサイト構築
     - P31 ~ P56
 - AWS SAA 過去問
+
+8月24日
+- 作って学ぶNext.js/React Webサイト構築
+    - P56
+- Software Design 9月号
