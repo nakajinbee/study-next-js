@@ -5,5 +5,5 @@ export default function Footer () {
         <footer>
             <Logo />
         </footer>
-    )ß
+    )
 }
