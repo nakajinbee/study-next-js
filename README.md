@@ -23,3 +23,9 @@ Next.jsとReact
 - 作って学ぶNext.js/React Webサイト構築
     - P56 ~ P85
 - Software Design 9月号
+- 税制について
+
+8月25日
+- 作って学ぶNext.js/React Webサイト構築
+    - P85 ~
+- Software Design 9月号
