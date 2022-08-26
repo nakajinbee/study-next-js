@@ -29,3 +29,7 @@ Next.jsとReact
 - 作って学ぶNext.js/React Webサイト構築
     - P85 ~ P104
 - Software Design 9月号
+
+8月26日
+- 作って学ぶNext.js/React Webサイト構築
+    - P104 ~
