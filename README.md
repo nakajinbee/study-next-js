@@ -37,3 +37,7 @@ Next.jsとReact
 8月28日
 - 作って学ぶNext.js/React Webサイト構築
     - P128 ~ P138
+
+8月29日
+- 作って学ぶNext.js/React Webサイト構築
+    - P138 ~ P164
