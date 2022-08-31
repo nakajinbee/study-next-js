@@ -46,3 +46,8 @@ Next.jsとReact
 - 作って学ぶNext.js/React Webサイト構築
     - P164 ~ P170
     - AWS SAA 過去問
+
+8月31日
+- 作って学ぶNext.js/React Webサイト構築
+    - P170
+    - AWS SAA 過去問
